@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="ApproverMaster" max_length="40" name="x_snc_releasetest_approvermaster" type="collection"/>
+    <element label="ApproverMaster" max_length="40" name="x_snc_releasetest_approvermaster" type="collection">
+        <element label="Approver" max_length="256" name="approver" type="string"/>
+        <element label="Approve Range" max_length="40" name="approve_range" type="integer"/>
+    </element>
 </database>
