@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ApproverMaster" max_length="40" name="x_snc_releasetest_approvermaster" type="collection"/>
+</database>
